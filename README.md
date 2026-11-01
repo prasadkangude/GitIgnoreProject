@@ -1,0 +1,1 @@
+Git ignore practical project
